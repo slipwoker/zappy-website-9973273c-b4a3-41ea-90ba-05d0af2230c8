@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-9973273c-b4a3-41ea-90ba.onrender.com/sitemap.xml
+Sitemap: https://seaview.zappy5.app/sitemap.xml
